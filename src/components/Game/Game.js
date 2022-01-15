@@ -17,15 +17,12 @@ export const Game = () => {
           You are a Bigfoot-CRYPTOid, walking through the forest. As you wander,
           you will need to eat plants, mushrooms, small animals, maybe an
           occasional deer to build and maintain <b>Strength.</b> You will also
-          need to collect small rocks, large rocks, small branches, and large
-          branches to be used for various challenges and as <b>Ammo</b> in your
+          need to collect rocks and branches to be used for various challenges and as <b>Ammo</b> in your
           battles against the Backwoods Hunters.
           <br />
           <br />
           You will encounter <b>Challenges</b> which can earn you rewards –
-          points, prizes, crypto – or advancement in the game. Some challenges
-          will be helpful, and others will be required for you to advance in the
-          game. You may find some random treasures along the way, but you must
+          points, prizes, tokens – or advancement in the game.  You may find some <b>Random Treasures</b> along the way, but you must
           also avoid <b>Random Dangers.</b>
           <br />
           <br />
